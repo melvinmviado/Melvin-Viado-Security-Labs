@@ -1,8 +1,5 @@
 # INFT1101: Wireless Network Security
 
-## 🚀 About This Repo
-Navigate into any course directory to view lab or project products. This repository is intended for archival and portfolio purposes. Students and Alumni must adhere to Durham College's academic integrity policies regarding the integrity and security of academic materials.
-
 ## 📌 Course Overview
 This course examines the unique security vulnerabilities of wireless network infrastructures while teaching the theoretical and practical skills needed to mitigate both known and emerging threats. Students will master hands-on techniques to harden systems and protect enterprise data, effectively preparing them for the advanced wireless components in future coursework.
 
